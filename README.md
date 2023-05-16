@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Ned
+
+I’m an undergraduate studying psychology and IT, and I’m passionate about cybersecurity, politics, and the impact of technology on society. When I’m not glued to a terminal I also enjoy swimming, climbing, and camping.
 
 <!--
 **nedpfeiffer/nedpfeiffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
