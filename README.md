@@ -1,6 +1,8 @@
 ### Hi, I'm Ned
 
-I’m an undergraduate studying psychology and IT, and I’m passionate about cybersecurity, politics, and the impact of technology on society. When I’m not glued to a terminal I also enjoy swimming, climbing, and camping.
+I am an undergraduate with an interdisciplinary educational background including geopolitics, cybersecurity, and
+psychology. I seek an entry-level analyst position where I can employ my diverse skill set including data and
+behavioral analytics as well as knowledge of the global security environment.
 
 <!--
 **nedpfeiffer/nedpfeiffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
